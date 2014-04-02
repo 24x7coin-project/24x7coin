@@ -17,6 +17,8 @@ The rest is the same as Bitcoin.
 For more information, as well as an immediately useable, binary version of
 client sofware, see http://www.24x7coin.com.
 
+Live shop for 24x7coins  www.24x7shop.net
+
 License
 -------
 
