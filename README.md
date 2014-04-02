@@ -12,7 +12,7 @@ What is 24x7coin?
 
 The rest is the same as Bitcoin.
  - 10 coins per block
- - 300 blocks to retarget difficulty
+ - 3000 blocks to retarget difficulty
 
 For more information, as well as an immediately useable, binary version of
 client sofware, see http://www.24x7coin.com.
